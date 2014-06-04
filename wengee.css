@@ -1,4 +1,4 @@
-﻿/*font*/
+﻿/*text*/
 .fwN{font-weight:normal;}
 .fwB{font-weight:bold;}
 .f12{font-size:0.750em;}
@@ -173,3 +173,4 @@
 .cRed{color:#f00;}
 .bgWhite{background-color:#fff;}
 /*other*/
+.txtInd{text-indent:2em;}
