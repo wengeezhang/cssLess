@@ -15,7 +15,7 @@
 .f24px{font-size:24px;}
 /*box model*/
 .mAuto{margin:auto;}
-.mAutoLR{margin-top:auto;margin-right:auto;}
+.mAutoLR{margin-left:auto;margin-right:auto;}
 .m30{margin:30px;}
 .m20{margin:20px;}
 .m15{margin:15px;}
