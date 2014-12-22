@@ -171,6 +171,15 @@
 .dFlex{display:flex;}
 .dIF{display:inlien-flex;}
 .flexAuto{flex:auto;}
+.flex_d_c{flex-direction:column;}
+.flex_d_cr{flex-direction:column-reverse;}
+.flex_d_r{flex-direction:row;}
+.flex_d_rr{flex-direction:row-reverse;}
+.flex_w_no{flex-wrap:nowrap;}
+.flex_w_w{flex-wrap:wrap;}
+.flex_w_wr{flex-wrap:wrap-reverse;}
+.flex_dw_rw{flex-flow:row wrap;}
+.flex_dw_cw{flex-flow:column wrap;}
 /*color*/
 .cWhite{color:#fff;}
 .cBlack{color:#000;}
