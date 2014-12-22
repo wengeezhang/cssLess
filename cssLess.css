@@ -88,7 +88,7 @@
 .p15{padding:15px;}
 .p10{padding:10px;}
 .p5{padding:5px;}
-.p0{padding:0px!ipportant;}
+.p0{padding:0px!important;}
 .p30_0{padding:30px 0;}
 .p20_0{padding:20px 0;}
 .p15_0{padding:15px 0;}
@@ -125,7 +125,7 @@
 .w50{width:50%;}
 .w100{width:100%;}
 .wAuto{width:auto;}
-/*layout*/
+/*css2 layout*/
 .fl{float:left;}
 .fr{float:right;}
 .fn{float:none;}
@@ -167,6 +167,10 @@
 .oh_x{overflow-x:hidden;}
 .oh_y{overflow-y:hidden;}
 .zToppest{z-index:9999;}
+/*css3 flex layout*/
+.dFlex{display:flex;}
+.dIF{display:inlien-flex;}
+.flexAuto{flex:auto;}
 /*color*/
 .cWhite{color:#fff;}
 .cBlack{color:#000;}
